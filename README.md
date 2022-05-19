@@ -1,7 +1,7 @@
 # Hydrogen Plus Other Alternative Fuels Risk Assessment Models (HyRAM+)
-The Hydrogen Plus Other Alternative Fuels Risk Assessment Models (HyRAM+) toolkit integrates deterministic and probabilistic models for quantifying accident scenarios, predicting physical effects, and characterizing the impact on people from hydrogen and other alternative fuels.
+Hydrogen Plus Other Alternative Fuels Risk Assessment Models (HyRAM+) ツールキットは、事故シナリオの定量化、物理的影響の予測、および水素やその他の代替燃料による人々への影響の評価のための決定論的および確率論的モデルを統合しています。
 
-Additional descriptions and documentation, as well as a Windows installer, can be found at https://hyram.sandia.gov/.
+その他の説明やドキュメント、Windowsインストーラは、https://hyram.sandia.gov/ に掲載されています。
 
 &nbsp;
 ## Copyright and License
